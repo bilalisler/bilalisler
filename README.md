@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Software Developer who lives in Istanbul (Turkey) and works at PATH Technology. I like talking about *Coding*, *Testing*, *Clean Code*, *Refactoring* and *DevOps*. 
+
+I am interested with literature.
+
+
 <!--
 **shark03/shark03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
