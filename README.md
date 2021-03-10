@@ -14,7 +14,6 @@ Also I am interested with literature.
   ![HTML](https://img.shields.io/badge/-HTML-eeeeee?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-eeeeee?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-eeeeee?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-eeeeee?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-eeeeee?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-eeeeee?style=flat&logo=vue.js)
   ![React Native](https://img.shields.io/badge/-ReactNative-eeeeee?style=flat&logo=react)
