@@ -34,7 +34,7 @@ Also I am interested with literature.
 ##  🤝🏻 &nbsp;Connect with Me
 
 
-<a href="https://www.linkedin.com/in/bilalisler">Bilal İŞLER</a> 
+<a href="https://www.linkedin.com/in/bilalisler" target="_blank">Bilal İŞLER</a> 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
