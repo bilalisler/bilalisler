@@ -21,12 +21,10 @@ Also I am interested with literature.
   ![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)
   ![Elastic Search](https://img.shields.io/badge/-elastic-ffffff?style=flat&logo=elasticsearch&logoColor=yellow)
   ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=000000)
 - 🔧 &nbsp;
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-ffffff?style=flat&logo=kubernetes&logoColor=007ACC)
   ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker&logoColor=007ACC)
   
   
