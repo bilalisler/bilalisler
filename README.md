@@ -1,7 +1,7 @@
 ### Hi 👋
 ## I'm Bilal.
 
-I am a Software Developer who lives in Istanbul (Turkey) and works at PATH Technology.
+I am a Software Developer who lives in Istanbul (Turkey).
 I like talking about *Coding*, *Testing*, *Clean Code*, *Refactoring* and *DevOps*.
 Also I am interested with literature.
 
